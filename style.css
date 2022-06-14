@@ -1,0 +1,80 @@
+* {
+    background-color: #fc7d5a;
+}
+
+.titulo1 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+
+.subtitulo {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    color: #ffffff;
+}
+
+.titulo2 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 50px;
+    color: white;
+
+}
+
+.imagem-segunda {
+    height: 400px;
+    width: auto;
+    margin-left: 5%;
+    margin-right: auto;
+    margin-top: 5%;
+    display: block;
+}
+
+.ingredientes {
+    margin-left: 30%;
+    margin-top: -20%;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    
+}
+
+.lista {
+    margin-left: 18%;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+.passos {
+    margin-left: 30%;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+.passo1 {
+    margin-left: 33%;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 19px;
+}
+
+.passo2 {
+    margin-left: 33%;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 19px;
+    margin-top: 2%;
+}
+
+.passo3 {
+    margin-left: 33%;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 19px;
+    margin-top: 2%;
+}
